@@ -1,5 +1,5 @@
 # Prediction-Coefficient
-The categorical prediction coefficient installation paths can be found here. This is a prerelease. Currently, only pandas DataFrames are supported inputs. A future release will support more input data types. But for now, please convert your data into a pandas DataFrame to test out this new coefficient (df = pandas.DataFrame(data) [pandas documentation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)). 
+The categorical prediction coefficient installation paths can be found here. This is a prerelease. Currently, only pandas DataFrames are supported inputs. A future release will support more input data types. But for now, please convert your data into a pandas DataFrame to test out this new coefficient (syntax: df = pandas.DataFrame(data) [pandas documentation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)). 
 
 It is currently available through conda and pip. 
 
