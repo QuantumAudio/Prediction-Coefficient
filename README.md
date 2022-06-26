@@ -13,7 +13,7 @@ from prediction_coefficient.categorical_prediction_coefficient import categorica
 
 prediction_matrix(df)
 
-The weighted prediction coefficients can be returned using prediction_matrix(df, weighted = True)
+The weighted prediction coefficients can be returned using prediction_matrix(df, weighted = True).
 
 Example:
 
