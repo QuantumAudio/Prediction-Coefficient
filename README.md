@@ -1,7 +1,11 @@
 # Prediction-Coefficient
-The categorical prediction coefficient installation path can be found here. This is a prerelease. Currently, only pandas DataFrames are supported inputs. A future release will support more input data types, but for now, please convert your data into a pandas DataFrame (df = pd.DataFrame(data)). 
+The categorical prediction coefficient installation path can be found here. This is a prerelease. Currently, only pandas DataFrames are supported inputs. A future release will support more input data types, but for now, please convert your data into a pandas DataFrame (df = pandas.DataFrame(data) [pandas documentation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)). 
 
-It is currently only available through conda. It may be available through PyPI soon. To install, use: conda install --channel "ForDataScience" prediction-coefficient
+It is currently available through conda and pip. 
+
+For conda, use: conda install --channel "ForDataScience" prediction-coefficient
+
+For pip, use: pip install prediction-coefficient
 
 Usage:
 
