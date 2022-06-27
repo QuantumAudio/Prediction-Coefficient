@@ -15,6 +15,8 @@ prediction_matrix(df)
 
 The weighted prediction coefficients can be returned using prediction_matrix(df, weighted = True).
 
+The output is a correlation matrix. The categorical prediction coefficient is not bidirectional. Each entry in the correlation matrix has the variable in the row as the input variable and the variable in the column as the outcome variable.
+
 Example:
 
 import numpy as np
